@@ -1,7 +1,7 @@
 # Emergency Calls Data Analysis
 
 ## Data Overview
-For this project I will be analyzing 911 emergency call data which contains the following fields:
+For this project I will be analyzing 911 emergency call data. This dataset contains the following fields:
 
 * lat : String variable, Latitude
 * lng: String variable, Longitude

@@ -1,7 +1,7 @@
 # Emergency Calls Data Analysis
 
 ## Data Overview
-For this project I will be analyzing 911 emergency call data from Montgomery, PA. It has about 100,000 rows of data for dates between December 2015 to September 2016.
+For this project I analyzed 911 emergency call data from Montgomery, PA. It has about 100,000 rows of data for dates between December 2015 to September 2016.
 This dataset contains the following fields:
 
 * lat : String variable, Latitude

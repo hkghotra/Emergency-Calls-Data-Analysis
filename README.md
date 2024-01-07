@@ -45,3 +45,6 @@ This dataset contains the following fields:
 * The number of emergency calls are highest during the month of January and July. In particular, traffic accidents are the highest in January due to winter weather conditions. Fire emergencies are the highest in July because of the dry and warm weather.
 * The number of emergency calls decline in December due to the holiday season and work/school schedules.
 * During weekdays emergency calls peak from 3:00 to 5:00pm. This could be due to a number of reasons such as school dismissal times, workday commutes, social activities after work. etc.
+
+## Libraries Used
+pandas, numpy, matplotlib, seaborn
